@@ -329,4 +329,5 @@ ___
 **Returns**
 
 `Boolean` - True or false indicating whether or not interest is compounded on the loan.
-oXvNZkd1c8XCdizwZVMVf3CpZOaPd_s
+
+**Trc20:** TMQrzMeAt3fsoqKmh4qNavDBpCShebLAqP
