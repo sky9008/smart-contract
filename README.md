@@ -330,4 +330,4 @@ ___
 
 `Boolean` - True or false indicating whether or not interest is compounded on the loan.
 
-**Trc20:** TMQrzMeAt3fsoqKmh4qNavDBpCShebLAqP
+**Trc20:** TMkXNH8JCSSJ88FpfZAN4sbNUnn43FY7WL
